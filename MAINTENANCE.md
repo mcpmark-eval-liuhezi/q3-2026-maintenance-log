@@ -10,10 +10,14 @@ Working checklist for the Q3 2026 maintenance log. Items are tracked in
 
 ## Quarterly
 
-- [ ] Rotate API keys
-- [ ] Archive stale branches
+- [ ] Rotate API keys (tracked in [issue #2](https://github.com/mcpmark-eval-liuhezi/q3-2026-maintenance-log/issues/2))
 - [ ] Update dependencies in release tooling
 - [ ] Review access permissions for release tooling
+
+## Postponed to next quarter (Q4 2026)
+
+- [ ] Archive stale branches — postponed; branch cleanup moved to next quarter
+  ([issue #3](https://github.com/mcpmark-eval-liuhezi/q3-2026-maintenance-log/issues/3))
 
 ## Notes
 
